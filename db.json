@@ -170,65 +170,7 @@
       "quality": 8
     }
   ],
-  "userProductCard": [
-    {
-      "id": "d460e688-c62d-4688-90ad-b7e1d778b2e3",
-      "name": "NIKE TIEMPO LEGEND 10 PRO TF",
-      "image": "https://product.hstatic.net/200000278317/product/-giay-da-bong-nike-tiempo-legend-10-pro-tf-dv4336-001-xam-xanh-chuoi-1_1cb89fd59bfa4e278b87c17d7ee718e9_grande.jpg",
-      "discountedPrice": "333.59",
-      "discount": "-23%",
-      "originalPrice": "397.30",
-      "installment": "161.19",
-      "badge": "Mới ra mắt",
-      "type": "artificial-soccer-shoes",
-      "brand": "nike",
-      "shoeType": "TF",
-      "codeSP": "DV4336-001",
-      "color": " XÁM/XANH CHUỐI",
-      "quantity": 3,
-      "userId": "cqA4SLb",
-      "size": "43",
-      "createdAt": 1731243662319
-    },
-    {
-      "id": "e583be68-bf1f-477f-a58b-28f5f5a8c07e4",
-      "name": "NIKE PREMIER III TF",
-      "image": "https://product.hstatic.net/200000278317/product/nh-hung-futsal-giay-da-bong-nike-premier-iii-tf-hm0283-001-den-trang-1_accde2d2f8d54067b71da424ca71fdd5_grande.jpg",
-      "discountedPrice": "667.79",
-      "discount": "-23%",
-      "originalPrice": "510.39",
-      "installment": "381.20",
-      "badge": "Mới ra mắt",
-      "type": "artificial-soccer-shoes",
-      "brand": "nike",
-      "shoeType": "IC",
-      "codeSP": "HM0283-001",
-      "color": "ĐEN/TRẮNG",
-      "quantity": 1,
-      "userId": "cqA4SLb",
-      "size": "40",
-      "createdAt": 1731499168593
-    },
-    {
-      "id": "11d7b531-997b-4054-9983-9898c6e0d37b",
-      "name": "NIKE ZOOM MERCURIAL VAPOR 16 PRO TF",
-      "image": "https://product.hstatic.net/200000278317/product/da-bong-nike-zoom-mercurial-vapor-15-pro-16-tf-fq8687-700-xanh-chuoi-1_8bbe68fb9d23471c8a8feb567aaa6555_grande.jpg",
-      "discountedPrice": "619.50",
-      "discount": "-23%",
-      "originalPrice": "600.85",
-      "installment": "780.09",
-      "badge": "Mới ra mắt",
-      "type": "artificial-soccer-shoes",
-      "brand": "nike",
-      "shoeType": "TF",
-      "codeSP": "FQ8687-700",
-      "color": "XANH CHUỐI",
-      "quantity": 1,
-      "userId": "cqA4SLb",
-      "size": "42",
-      "createdAt": 1731499252739
-    }
-  ],
+  "userProductCard": [],
   "CheckoutProductCard": [
     {
       "0": {
