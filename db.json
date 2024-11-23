@@ -1,29 +1,6 @@
 {
   "users": [
     {
-      "id": "d4a8708d-f602-4b08-8c27-7355508daaf8",
-      "firstName": "Kennith",
-      "lastName": "Macejkovic",
-      "fullName": "Dominic DuBuque",
-      "email": "Gunnar_Deckow@yahoo.com",
-      "phone": "1-497-217-0812",
-      "company": "Stokes, Homenick and Labadie",
-      "password": "12345678",
-      "confirmPassword": "12345678"
-    },
-    {
-      "id": "d4a8708d-f602-4b08-8c27-7355508daaf82024",
-      "firstName": "Kennith 2024",
-      "lastName": "Macejkovic",
-      "fullName": "Dominic DuBuque",
-      "email": "Gunnar_Deckow@yahoo.com",
-      "phone": "1-497-217-0812",
-      "company": "Stokes, Homenick and Labadie",
-      "password": "123456780",
-      "confirmPassword": "123456780",
-      "createdAt": 1730741770709
-    },
-    {
       "firstName": "lâm",
       "lastName": "nhân",
       "email": "nhan@gmail.com",
